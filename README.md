@@ -1,4 +1,4 @@
-<b><font face = 'Garamond' color = #A78A68 size=8> @we_rate_dogs Data Wrangling </font> <font face = 'Garamond' size=6>and Analysis</font></b>
+# <b><font face = 'Garamond' color = #A78A68 size=8> @we_rate_dogs Data Wrangling </font> <font face = 'Garamond' size=6>and Analysis</font></b>
 
 <img src = "https://www.elderresearch.com/wp-content/uploads/2020/10/Data-Wrangling.bmp" width=80% height=30%>
 <p>
