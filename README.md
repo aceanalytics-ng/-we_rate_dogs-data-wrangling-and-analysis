@@ -79,3 +79,5 @@ Some of the issues detected with the datasets include:<p>
 
 <br><b><font face = 'Garamond' color = #A78A68 size=5>Storing the Data</font></b><p>
 After gathering, assessing and cleaning the data, I then stored the merged data in a csv file named `twitter_archive_master.csv.`
+
+### NB: Click and open the ***`wrangle&analyze.ipynb`*** file to view the notebook for the project
